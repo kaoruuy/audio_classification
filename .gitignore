@@ -10,5 +10,5 @@ data/video/raw/*.LRV
 data/video/raw/*.THM
 
 # Training artifacts
-models/
-results/
+# models/
+# results/
